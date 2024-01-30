@@ -28,7 +28,7 @@ do
 		cout<<"\n5. To display column-wise sum of matrix of size m x n";
         cout<<"\n6. To create transpose of matrix B of size n x m";
 		cout<<"\n7. Exit";
-		cout<<"\n\nEnter your choice 1-7 :";
+		cout<<"\n\nEnter your choice 1-7 : Dont Enter anything un necessary";
 		cin>>choice;
 		switch(choice)
 		{
