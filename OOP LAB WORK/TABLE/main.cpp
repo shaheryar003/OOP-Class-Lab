@@ -5,9 +5,9 @@ using namespace std;
 int main()
 {
     int userInputTable,userInputRange,tableCount;
-    cout<<"ENTER YOUR NUMBER FOR DESIRED TABLE: ";
+    cout<<"ENTER YOUR NUMBER FOR DESIRED TABLE: (Aceepts only Numbers, Exception Handling not done yet.)\n";
     cin>>userInputTable;
-    cout<<"ENTER YOUR RANGE: ";
+    cout<<"\nENTER YOUR RANGE: ";
     cin>>userInputRange;
 
     for(tableCount=1;tableCount<=userInputRange;tableCount++){
