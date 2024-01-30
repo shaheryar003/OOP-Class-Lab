@@ -7,7 +7,7 @@ int main()
     int userInputTable,userInputRange,tableCount;
     cout<<"ENTER YOUR NUMBER FOR DESIRED TABLE: (Aceepts only Numbers, Exception Handling not done yet.)\n";
     cin>>userInputTable;
-    cout<<"\nENTER YOUR RANGE: ";
+    cout<<"\nENTER YOUR RANGE IN NUMBERS : ";
     cin>>userInputRange;
 
     for(tableCount=1;tableCount<=userInputRange;tableCount++){
